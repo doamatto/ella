@@ -33,8 +33,6 @@
       "trusted": [
         "§:addons.mozilla.org",
         "§:afx.ms",
-        "§:ajax.aspnetcdn.com",
-        "§:firstdata.com",
         "§:firstdata.lv",
         "§:hotmail.com",
         "§:live.net",
@@ -90,7 +88,11 @@
         "https://devforum.roblox.com",
         "https://www.noip.com",
         "https://js.stripe.com",
-        "https://gamehag.com"
+        "https://gamehag.com",
+        "http://homeassistant.local:8123",
+        "http://localhost:32400",
+        "http://127.0.0.1:32400",
+        "https://localhost:32400"
       ],
       "untrusted": [
         "doubleclick.net",
@@ -213,7 +215,6 @@
         "https://stats.kde.org",
         "https://cdn.appdynamics.com",
         "https://nintendoofamerica.tt.omtrdc.net",
-        "https://cdn.pricespider.com",
         "https://zn5aocakgjj2uagxj-nintendoofamerica.siteintercept.qualtrics.com",
         "https://cdn.quantummetric.com",
         "https://cdn.treasuredata.com",
@@ -519,9 +520,100 @@
         "https://api.segment.io.",
         "https://get.s-onetag.com",
         "https://secure-us.imrworldwide.com",
-        "https://tracker.affirm.com"
+        "https://tracker.affirm.com",
+        "https://cdn.adswizz.com",
+        "https://wtbevents.pricespider.com",
+        "https://analytics.plex.tv",
+        "https://o17675.ingest.sentry.io",
+        "https://g.ezoic.net",
+        "https://sf.ezoiccdn.com",
+        "https://go.ezodn.com",
+        "https://az416426.vo.msecnd.net",
+        "https://statics-marketingsites-eus-ms-com.akamaized.net",
+        "https://js.monitor.azure.com",
+        "https://browser.events.data.microsoft.com",
+        "https://ads.pubmatic.com",
+        "https://ssum.casalemedia.com",
+        "adzerk.net",
+        "https://adz.wattpad.com",
+        "https://i.kissmetrics.com",
+        "https://js.hs-scripts.com",
+        "https://scripts.kissmetrics.com",
+        "https://js.sentry-cdn.com",
+        "https://dna8twue3dlxq.cloudfront.net",
+        "https://o248881.ingest.sentry.io",
+        "https://cookiex.ngd.yahoo.com",
+        "https://delivery.e.switchadhub.com",
+        "https://datagather.xsolla.com",
+        "https://pro.ip-api.com",
+        "https://rec.ingka.com",
+        "https://assets.pxlecdn.com",
+        "https://js.iterable.com",
+        "https://cdn10.heysavvy.com",
+        "https://cdn.heysavvy.com",
+        "https://static.cohere.so",
+        "https://api.commandbar.com",
+        "https://cdn.blueconic.net",
+        "https://shynet.rmrm.io",
+        "https://stats.blogsport.de",
+        "https://spcdn.incartupsell.com",
+        "https://cdn.judge.me",
+        "https://a.klaviyo.com",
+        "https://loox.io",
+        "https://a.mailmunch.co",
+        "https://omnisnippet1.com",
+        "https://a.quora.com",
+        "https://acfeedbackws.icloud.com",
+        "https://via.batch.com",
+        "https://l.getsitecontrol.com",
+        "https://www.dwin2.com",
+        "https://d35xxde4fgg0cx.cloudfront.net",
+        "https://glyph.medium.com",
+        "https://lightstep.medium.systems",
+        "https://files.getpaloma.com",
+        "https://app.backinstock.org",
+        "https://firebaseinstallations.googleapis.com",
+        "https://firebaseremoteconfig.googleapis.com",
+        "https://cdn.engagement.ai",
+        "https://741b2a0bd043.cdn4.forter.com",
+        "https://click.oneplus.com",
+        "https://d35u1vg1q28b3w.cloudfront.net",
+        "https://geoip-js.com",
+        "https://o530045.ingest.sentry.io",
+        "https://events.busuu.com",
+        "https://pavlov.dice.fm",
+        "https://cdn.evergage.com",
+        "https://cloudfront.loggly.com",
+        "https://www.fastly-insights.com",
+        "https://browser-update.org",
+        "http://browser-update.org",
+        "https://cdn.pushowl.com",
+        "https://cdn.cquotient.com",
+        "https://cdn.yottaa.com",
+        "https://refer.snagajob.com",
+        "https://turnip.cdn.turner.com",
+        "https://geo.ngtv.io",
+        "https://logs.psm.wmcdp.io",
+        "https://adasitecompliancetools.com",
+        "https://536ef205c534.cdn4.forter.com",
+        "https://display.ugc.bazaarvoice.com",
+        "https://ui.powerreviews.com",
+        "https://secure-cdn.mplxtms.com",
+        "https://seal.godaddy.com",
+        "https://marketing.figma.com",
+        "https://errors.figma.com"
       ],
       "custom": {
+        "http://archive.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "http://go.com": {
           "capabilities": [
             "frame",
@@ -552,6 +644,16 @@
           ],
           "temp": false
         },
+        "http://web.archive.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "http://www.300fit.io": {
           "capabilities": [
             "frame",
@@ -559,6 +661,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "http://www.st-trigger.co.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
           ],
           "temp": false
         },
@@ -583,6 +696,16 @@
           "temp": false
         },
         "https://100r.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://12ft.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -622,7 +745,27 @@
           ],
           "temp": false
         },
+        "https://8b95e83a-madman-com-au.akamaized.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://8f2bfa24-f12a-458a-89ac-391b91f711e3.redfastlabs.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://a-v2.sndcdn.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -713,6 +856,16 @@
           ],
           "temp": false
         },
+        "https://about.me": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://ac.dun.163.com": {
           "capabilities": [
             "frame",
@@ -749,6 +902,16 @@
             "other",
             "script",
             "frame"
+          ],
+          "temp": false
+        },
+        "https://account-link.nabucasa.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -892,6 +1055,16 @@
           ],
           "temp": false
         },
+        "https://account.live.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://account.mapbox.com": {
           "capabilities": [
             "frame",
@@ -899,6 +1072,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://account.microsoft.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
           ],
           "temp": false
         },
@@ -996,7 +1180,8 @@
             "frame",
             "fetch",
             "noscript",
-            "other"
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -1032,6 +1217,16 @@
           "temp": false
         },
         "https://accounts.zoho.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://acctcdn.msauth.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1301,6 +1496,16 @@
           ],
           "temp": false
         },
+        "https://ambicular.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
         "https://ameblo.jp": {
           "capabilities": [
             "frame",
@@ -1332,6 +1537,17 @@
           "temp": false
         },
         "https://anchor.fm": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://andreasarvidsson.github.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1402,6 +1618,16 @@
           ],
           "temp": false
         },
+        "https://ap.www.namecheap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://api-cf.affirm.com": {
           "capabilities": [
             "frame",
@@ -1434,7 +1660,8 @@
             "frame",
             "fetch",
             "noscript",
-            "other"
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -1454,6 +1681,15 @@
           "temp": false
         },
         "https://api.braintreegateway.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://api.busuu.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1495,7 +1731,8 @@
             "frame",
             "fetch",
             "noscript",
-            "other"
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -1550,7 +1787,8 @@
             "frame",
             "fetch",
             "noscript",
-            "other"
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -1565,6 +1803,24 @@
           "temp": false
         },
         "https://api.minefort.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://api.outline.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://api.pocketcasts.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1642,6 +1898,16 @@
           ],
           "temp": false
         },
+        "https://apify.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://apis.google.com": {
           "capabilities": [
             "frame",
@@ -1682,7 +1948,37 @@
           ],
           "temp": false
         },
+        "https://app.betterimpact.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://app.betterimpactcdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://app.buddy.works": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://app.crazyegg.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1832,6 +2128,17 @@
           ],
           "temp": false
         },
+        "https://app.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
         "https://app.probely.com": {
           "capabilities": [
             "frame",
@@ -1858,7 +2165,8 @@
             "fetch",
             "noscript",
             "other",
-            "script"
+            "script",
+            "unchecked_css"
           ],
           "temp": false
         },
@@ -2072,6 +2380,46 @@
           ],
           "temp": false
         },
+        "https://ark.intel.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://armorlab.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://armorpaint.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://armory3d.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://artists.jiosaavn.com": {
           "capabilities": [
             "frame",
@@ -2142,7 +2490,37 @@
           ],
           "temp": false
         },
+        "https://assets-static.invaluable.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://assets.alicdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://assets.are.na": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://assets.braintreegateway.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -2173,6 +2551,16 @@
           "temp": false
         },
         "https://assets.digitalocean.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://assets.ey.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -2273,6 +2661,16 @@
           ],
           "temp": false
         },
+        "https://assets.phenompeople.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://assets.quizlet.com": {
           "capabilities": [
             "frame",
@@ -2293,7 +2691,27 @@
           ],
           "temp": false
         },
+        "https://assets.scroll.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://assets.secure.checkout.visa.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://assets.sonos.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -2330,6 +2748,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://assets.viz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
           ],
           "temp": false
         },
@@ -2400,6 +2829,16 @@
             "noscript",
             "other",
             "font"
+          ],
+          "temp": false
+        },
+        "https://athleta.gap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -2680,7 +3119,47 @@
           ],
           "temp": false
         },
+        "https://aws1.discourse-cdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://az725175.vo.msecnd.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://b.cdnst.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://backgrounds.wetransfer.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://bananarepublic.gap.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -2720,6 +3199,16 @@
           ],
           "temp": false
         },
+        "https://beta.musicbrainz.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://billing.pebblehost.com": {
           "capabilities": [
             "frame",
@@ -2750,6 +3239,35 @@
           ],
           "temp": false
         },
+        "https://black-mosquito.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://blobcomments-pa.clients6.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://blog.archive.today": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://blog.google": {
           "capabilities": [
             "frame",
@@ -2771,6 +3289,46 @@
           "temp": false
         },
         "https://bluejay.one": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://bneteu-a.akamaihd.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://bnetshopeu.akamaized.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://bnetshopus.akamaized.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://bnetus-a.akamaihd.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -2827,6 +3385,36 @@
           ],
           "temp": false
         },
+        "https://brave.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://brew.sh": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://brinker.taleo.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://bronto.com": {
           "capabilities": [
             "frame",
@@ -2867,12 +3455,33 @@
           ],
           "temp": false
         },
+        "https://bugs.chromium.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://builder.io": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://buildwithmatter.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
+            "script"
           ],
           "temp": false
         },
@@ -2988,7 +3597,57 @@
           ],
           "temp": false
         },
+        "https://canary.discord.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cantorlytics.vsco.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://canyouseeme.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://card-apply-static.cdn-apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://card-static.cdn-apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://card.apple.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3008,7 +3667,37 @@
           ],
           "temp": false
         },
+        "https://careers.barnesandnoble.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://careers.dennys.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://careers.ghost.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://careers.panerabread.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3058,6 +3747,16 @@
           ],
           "temp": false
         },
+        "https://cdn-0.emojis.wiki": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cdn-account.bnea.io": {
           "capabilities": [
             "frame",
@@ -3085,6 +3784,16 @@
             "noscript",
             "other",
             "media"
+          ],
+          "temp": false
+        },
+        "https://cdn-client.medium.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -3218,6 +3927,15 @@
           ],
           "temp": false
         },
+        "https://cdn.bc0a.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
         "https://cdn.beta.qmee.com": {
           "capabilities": [
             "frame",
@@ -3230,6 +3948,17 @@
         },
         "https://cdn.builder.io": {
           "capabilities": [
+            "media"
+          ],
+          "temp": false
+        },
+        "https://cdn.busuu.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
             "media"
           ],
           "temp": false
@@ -3254,6 +3983,27 @@
           ],
           "temp": false
         },
+        "https://cdn.datatables.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://cdn.discordapp.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
         "https://cdn.dribbble.com": {
           "capabilities": [
             "frame",
@@ -3275,6 +4025,16 @@
           "temp": false
         },
         "https://cdn.eslgaming.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.esm.sh": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3379,6 +4139,46 @@
           ],
           "temp": false
         },
+        "https://cdn.opstatics.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.paddle.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.pagefly.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.phenompeople.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cdn.plaid.com": {
           "capabilities": [
             "frame",
@@ -3445,11 +4245,31 @@
             "noscript",
             "other",
             "script",
-            "font"
+            "font",
+            "media"
           ],
           "temp": false
         },
         "https://cdn.static.zdbb.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.steam.tools": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://cdn.storelocatorwidgets.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3469,7 +4289,38 @@
           ],
           "temp": false
         },
+        "https://cdn.studentbeans.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cdn.thingiverse.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.traitify.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://cdn.travis-ci.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3511,6 +4362,16 @@
           "temp": false
         },
         "https://cdn.writeas.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.xsolla.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3712,6 +4573,16 @@
           "temp": false
         },
         "https://chatra.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cheapdigitaldownload.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4013,7 +4884,8 @@
             "fetch",
             "noscript",
             "other",
-            "script"
+            "script",
+            "unchecked_css"
           ],
           "temp": false
         },
@@ -4057,6 +4929,16 @@
           ],
           "temp": false
         },
+        "https://combo.staticflickr.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://commerce.adobe.com": {
           "capabilities": [
             "frame",
@@ -4078,6 +4960,16 @@
           "temp": false
         },
         "https://community.akamai.steamstatic.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://community.cloudflare.steamstatic.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4125,6 +5017,25 @@
             "other",
             "script",
             "media"
+          ],
+          "temp": false
+        },
+        "https://connect.scroll.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://connect.studentbeans.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -4178,6 +5089,16 @@
           ],
           "temp": false
         },
+        "https://console.nest.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://contacts.google.com": {
           "capabilities": [
             "frame",
@@ -4208,6 +5129,16 @@
           ],
           "temp": false
         },
+        "https://content.production.cdn.art19.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
         "https://content.schwab.com": {
           "capabilities": [
             "frame",
@@ -4215,6 +5146,16 @@
             "noscript",
             "other",
             "media"
+          ],
+          "temp": false
+        },
+        "https://content.sonos.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -4229,6 +5170,16 @@
           "temp": false
         },
         "https://content.usaa.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://conversejs.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4378,7 +5329,27 @@
           ],
           "temp": false
         },
+        "https://cryptii.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://crytekcs.kayako.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cs.opensource.google": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4587,6 +5558,26 @@
           ],
           "temp": false
         },
+        "https://d1zcggttmijv1z.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://d2gg02c3xr550i.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://d2guulkeunn7d8.cloudfront.net": {
           "capabilities": [
             "frame",
@@ -4658,6 +5649,16 @@
           ],
           "temp": false
         },
+        "https://d35aaqx5ub95lt.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://d374qyff4cr92x.cloudfront.net": {
           "capabilities": [
             "frame",
@@ -4675,6 +5676,16 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://d3ctxlq1ktw2nl.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -4789,7 +5800,27 @@
           ],
           "temp": false
         },
+        "https://d9me64que7cqs.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://dable.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://daisous.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4909,6 +5940,16 @@
           ],
           "temp": false
         },
+        "https://deathsquared.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://deepstash.com": {
           "capabilities": [
             "frame",
@@ -4929,6 +5970,16 @@
           ],
           "temp": false
         },
+        "https://demo.home-assistant.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://denali-static.grammarly.com": {
           "capabilities": [
             "frame",
@@ -4939,7 +5990,38 @@
           ],
           "temp": false
         },
+        "https://developer.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://developer.microsoft.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://developer.salesforce.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://developers.facebook.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4969,12 +6051,53 @@
           ],
           "temp": false
         },
+        "https://dice-media.imgix.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://dice.fm": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://did0rp9pm2ntw.cloudfront.net": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://discord.club": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://disroot.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
             "script"
           ],
           "temp": false
@@ -5030,6 +6153,16 @@
           "temp": false
         },
         "https://dnssec.vs.uni-due.de": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://doc.deno.land": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5100,6 +6233,36 @@
           ],
           "temp": false
         },
+        "https://docs.gotosocial.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://docs.microsoft.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://docs.paymentjs.firstdata.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://docs.powerschool.com": {
           "capabilities": [
             "frame",
@@ -5111,6 +6274,16 @@
           "temp": false
         },
         "https://docs.rackspace.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://docs.yagpdb.xyz": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5181,6 +6354,16 @@
           "temp": false
         },
         "https://download.foldingathome.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://download.lineageos.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5371,6 +6554,16 @@
           ],
           "temp": false
         },
+        "https://e8b8e3q2.ssl.hwcdn.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
         "https://earth.google.com": {
           "capabilities": [
             "frame",
@@ -5422,6 +6615,16 @@
           ],
           "temp": false
         },
+        "https://eggbox.fantomfactory.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://elementary.io": {
           "capabilities": [
             "frame",
@@ -5462,6 +6665,26 @@
           ],
           "temp": false
         },
+        "https://emojis.wiki": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://en.wikipedia.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://enter.ipsosinteractive.com": {
           "capabilities": [
             "frame",
@@ -5492,6 +6715,15 @@
           ],
           "temp": false
         },
+        "https://epg.provider.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
         "https://er.op.gg": {
           "capabilities": [
             "frame",
@@ -5502,7 +6734,37 @@
           ],
           "temp": false
         },
+        "https://esm.sh": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://esossljs-a.akamaihd.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://eu.battle.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://eu.shop.battle.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5581,6 +6843,16 @@
           ],
           "temp": false
         },
+        "https://f.vimeocdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://f1tv.formula1.com": {
           "capabilities": [
             "frame",
@@ -5589,6 +6861,16 @@
             "other",
             "script",
             "media"
+          ],
+          "temp": false
+        },
+        "https://fabricweb.azureedge.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -5672,7 +6954,27 @@
           ],
           "temp": false
         },
+        "https://fediverse.party": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://fedora.teachablecdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://feedafever.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5703,6 +7005,16 @@
           "temp": false
         },
         "https://fiit.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://finji.itch.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5762,7 +7074,27 @@
           ],
           "temp": false
         },
+        "https://flattr.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://flexibits.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://flickr.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5820,6 +7152,16 @@
             "noscript",
             "other",
             "font"
+          ],
+          "temp": false
+        },
+        "https://forums.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -5924,6 +7266,16 @@
           "temp": false
         },
         "https://gaming.amazon.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://gapinc.taleo.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6049,12 +7401,42 @@
           ],
           "temp": false
         },
+        "https://global.bookwalker.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://global.dailybreak.com": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://gog-com-us.connect.studentbeans.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://golf-with-your-friends.xsollasitebuilder.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -6104,6 +7486,16 @@
           ],
           "temp": false
         },
+        "https://groovy.bot": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://groups.google.com": {
           "capabilities": [
             "frame",
@@ -6144,6 +7536,16 @@
           ],
           "temp": false
         },
+        "https://habitica.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://hangouts.google.com": {
           "capabilities": [
             "frame",
@@ -6155,6 +7557,16 @@
           "temp": false
         },
         "https://happi.dev": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://haxe.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6202,6 +7614,16 @@
             "other",
             "script",
             "font"
+          ],
+          "temp": false
+        },
+        "https://help.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -6322,6 +7744,16 @@
             "other",
             "script",
             "frame"
+          ],
+          "temp": false
+        },
+        "https://hiring.snagajob.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -6549,6 +7981,16 @@
           ],
           "temp": false
         },
+        "https://idmsa.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://idp.hrblock.com": {
           "capabilities": [
             "frame",
@@ -6678,6 +8120,16 @@
           ],
           "temp": false
         },
+        "https://instafeedjs.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://instana.io": {
           "capabilities": [
             "frame",
@@ -6697,6 +8149,16 @@
           ],
           "temp": false
         },
+        "https://islandscandidate.traitify.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://isthereanydeal.com": {
           "capabilities": [
             "frame",
@@ -6707,7 +8169,57 @@
           ],
           "temp": false
         },
+        "https://itch.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://jobs.hilton.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://jobs.lever.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://jobsapi-internal.m-cloud.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://join.misskey.page": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://joinmastodon.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6738,6 +8250,16 @@
           "temp": false
         },
         "https://js.afterpay.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://js.booksamillion.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6788,16 +8310,6 @@
           "temp": false
         },
         "https://js.recurly.com": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other",
-            "script"
-          ],
-          "temp": false
-        },
-        "https://js.sentry-cdn.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6888,6 +8400,16 @@
           ],
           "temp": false
         },
+        "https://keybase.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://killedbygoogle.com": {
           "capabilities": [
             "frame",
@@ -6899,6 +8421,16 @@
           "temp": false
         },
         "https://kit.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://knitting.apify.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6948,6 +8480,16 @@
           ],
           "temp": false
         },
+        "https://krita.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://krunker.io": {
           "capabilities": [
             "frame",
@@ -6970,6 +8512,16 @@
           "temp": false
         },
         "https://kutt.it": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://l10n.elementary.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7025,6 +8577,26 @@
           "temp": false
         },
         "https://learning.ussoccer.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://legal.konami.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://liberapay.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7135,6 +8707,16 @@
           ],
           "temp": false
         },
+        "https://loader.to": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://login.amtrak.com": {
           "capabilities": [
             "frame",
@@ -7177,6 +8759,16 @@
           "temp": false
         },
         "https://login.ibm.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://login.immerda.ch": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7266,7 +8858,27 @@
           ],
           "temp": false
         },
+        "https://login.ultipro.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://login.us.coca-cola.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://login.web.wechat.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7307,6 +8919,16 @@
           "temp": false
         },
         "https://loginrouter.hrblock.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://lookup.icann.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7386,7 +9008,27 @@
           ],
           "temp": false
         },
+        "https://mackweldon.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://madeby.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://madebymirac.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7452,6 +9094,16 @@
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://mangaplus.shueisha.co.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -7527,6 +9179,16 @@
           ],
           "temp": false
         },
+        "https://mattmakesgames.itch.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://maxcdn.bootstrapcdn.com": {
           "capabilities": [
             "frame",
@@ -7598,6 +9260,26 @@
           ],
           "temp": false
         },
+        "https://mediatemple.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://medium.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://meet.google.com": {
           "capabilities": [
             "frame",
@@ -7639,6 +9321,16 @@
           "temp": false
         },
         "https://mem.gfx.ms": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://member.bookwalker.jp": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7697,6 +9389,25 @@
           ],
           "temp": false
         },
+        "https://metadata.provider.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://miles.land": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://minefort.com": {
           "capabilities": [
             "frame",
@@ -7738,6 +9449,16 @@
           "temp": false
         },
         "https://modusgames.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://molleindustria.itch.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7866,6 +9587,16 @@
             "other",
             "script",
             "media"
+          ],
+          "temp": false
+        },
+        "https://my.home-assistant.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -8123,6 +9854,26 @@
           ],
           "temp": false
         },
+        "https://nim-lang.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://nimble.directory": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://ninjakiwi.com": {
           "capabilities": [
             "frame",
@@ -8141,6 +9892,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://nitter.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
           ],
           "temp": false
         },
@@ -8192,6 +9954,16 @@
           ],
           "temp": false
         },
+        "https://oasis.opstatics.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://oauth.reddit.com": {
           "capabilities": [
             "frame",
@@ -8212,6 +9984,16 @@
           "temp": false
         },
         "https://ogs.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://oldnavy.gap.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -8377,6 +10159,16 @@
           ],
           "temp": false
         },
+        "https://outline.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://overwatch.op.gg": {
           "capabilities": [
             "frame",
@@ -8384,6 +10176,25 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://overwatch2.playoverwatch.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://ow0o5i3qo7-dsn.algolia.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
           ],
           "temp": false
         },
@@ -8399,6 +10210,16 @@
           "temp": false
         },
         "https://p19.zdassets.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://pagefly.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -8469,6 +10290,16 @@
           "temp": false
         },
         "https://pay.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://payments.amazon.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -8588,7 +10419,37 @@
           ],
           "temp": false
         },
+        "https://picard-docs.musicbrainz.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://pignus.frobese.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://pim.etesync.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://pkg.go.dev": {
           "capabilities": [
             "frame",
             "fetch",
@@ -8618,6 +10479,16 @@
           ],
           "temp": false
         },
+        "https://play.golang.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://play.google.com": {
           "capabilities": [
             "frame",
@@ -8625,6 +10496,28 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://play.pocketcasts.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://play.qobuz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font",
+            "media"
           ],
           "temp": false
         },
@@ -8645,6 +10538,35 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://player.siriusxm.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://player.vimeo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
           ],
           "temp": false
         },
@@ -8767,6 +10689,16 @@
           ],
           "temp": false
         },
+        "https://portchecker.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://powerschool.sandi.net": {
           "capabilities": [
             "frame",
@@ -8818,6 +10750,16 @@
           "temp": false
         },
         "https://print.stamps.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://privacy.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -8937,6 +10879,16 @@
           ],
           "temp": false
         },
+        "https://projects.raspberrypi.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://prometheus.io": {
           "capabilities": [
             "frame",
@@ -9018,6 +10970,16 @@
           "temp": false
         },
         "https://pushpushgo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://qsbr.fs.quoracdn.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9154,6 +11116,17 @@
           ],
           "temp": false
         },
+        "https://recruiting2.ultipro.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://reddigram.wolszon.me": {
           "capabilities": [
             "frame",
@@ -9194,7 +11167,47 @@
           ],
           "temp": false
         },
+        "https://reflect-prod.firebaseapp.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://reflect.app": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://regexr.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://replit.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://res.wx.qq.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9214,6 +11227,16 @@
           "temp": false
         },
         "https://rewards.crycash.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://rgb.to": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9253,6 +11276,27 @@
           ],
           "temp": false
         },
+        "https://round.nneko.me": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://rsf.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://rsn-da-assets.s3.amazonaws.com": {
           "capabilities": [
             "frame",
@@ -9260,6 +11304,16 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://rss.art19.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -9522,6 +11576,16 @@
           ],
           "temp": false
         },
+        "https://scontent-lax3-1.cdninstagram.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
         "https://scontent-lax3-2.cdninstagram.com": {
           "capabilities": [
             "frame",
@@ -9543,6 +11607,16 @@
           "temp": false
         },
         "https://scrippsranch.sandiegounified.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://scroll.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9582,7 +11656,27 @@
           ],
           "temp": false
         },
+        "https://sea1.discourse-cdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://search.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://secure.booksamillion.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9768,6 +11862,16 @@
           ],
           "temp": false
         },
+        "https://shell.cdn.office.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://shop.aer.io": {
           "capabilities": [
             "frame",
@@ -9779,6 +11883,16 @@
           "temp": false
         },
         "https://shop.ford.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://shopifyorderlimits.s3.amazonaws.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9805,6 +11919,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://simplenote.go-vip.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "unchecked_css"
           ],
           "temp": false
         },
@@ -9837,7 +11962,27 @@
           ],
           "temp": false
         },
+        "https://smallbusiness.yahoo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://socialcdn.i-say.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://soundcloud.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9865,6 +12010,42 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://speedtest.west.rr.com:5060": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://speedtest.west.rr.com:8080": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://speedtest.ztelco.com.prod.hosts.ooklaserver.net:5060": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://speedtest.ztelco.com.prod.hosts.ooklaserver.net:8080": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
           ],
           "temp": false
         },
@@ -10017,6 +12198,16 @@
           ],
           "temp": false
         },
+        "https://start.gogetvax.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static-assets.mapbox.com": {
           "capabilities": [
             "frame",
@@ -10067,6 +12258,16 @@
           ],
           "temp": false
         },
+        "https://static-www.qobuz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.adobelogin.com": {
           "capabilities": [
             "frame",
@@ -10099,6 +12300,16 @@
           "temp": false
         },
         "https://static.buffer.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://static.cdn.adultswim.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10146,6 +12357,16 @@
           "temp": false
         },
         "https://static.cytoid.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://static.dayforcehcm.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10215,6 +12436,16 @@
           ],
           "temp": false
         },
+        "https://static.itch.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.kit.co": {
           "capabilities": [
             "frame",
@@ -10264,6 +12495,17 @@
           ],
           "temp": false
         },
+        "https://static.nc-img.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://static.parastorage.com": {
           "capabilities": [
             "frame",
@@ -10304,6 +12546,16 @@
           ],
           "temp": false
         },
+        "https://static.scroll.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.sketchfab.com": {
           "capabilities": [
             "frame",
@@ -10324,6 +12576,16 @@
           ],
           "temp": false
         },
+        "https://static.twitchcdn.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.vsco.co": {
           "capabilities": [
             "frame",
@@ -10334,7 +12596,27 @@
           ],
           "temp": false
         },
+        "https://static.wattpad.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.windscribe.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://static.xx.fbcdn.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10395,6 +12677,16 @@
           ],
           "temp": false
         },
+        "https://staticbrainz.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://staticfe.saavn.com": {
           "capabilities": [
             "frame",
@@ -10413,6 +12705,16 @@
             "other",
             "script",
             "media"
+          ],
+          "temp": false
+        },
+        "https://steam.tools": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -10526,7 +12828,27 @@
           ],
           "temp": false
         },
+        "https://store.team17.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://storerocket.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://stores.barnesandnoble.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10567,6 +12889,16 @@
           "temp": false
         },
         "https://studentjs.studyportals.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://studio.airportal.app": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10744,6 +13076,16 @@
           ],
           "temp": false
         },
+        "https://taleosso.brinker.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://talk.op.gg": {
           "capabilities": [
             "frame",
@@ -10784,7 +13126,27 @@
           ],
           "temp": false
         },
+        "https://testflight.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://th-banner.myfonts.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://thefrenchovenbakery.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10864,6 +13226,16 @@
           ],
           "temp": false
         },
+        "https://tiermaker.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://tiles.windy.com": {
           "capabilities": [
             "frame",
@@ -10873,7 +13245,46 @@
           ],
           "temp": false
         },
+        "https://tinygo.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://tms.fmm.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://todoist.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://together.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://tokenized.play.google.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10943,6 +13354,16 @@
           ],
           "temp": false
         },
+        "https://travis-ci.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://trends.google.com": {
           "capabilities": [
             "frame",
@@ -10954,6 +13375,16 @@
           "temp": false
         },
         "https://tresorit.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://trigger.ecq.sc": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10986,6 +13417,16 @@
           "temp": false
         },
         "https://trustarc.mgr.consensu.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://trysavvy.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11084,6 +13525,16 @@
           ],
           "temp": false
         },
+        "https://unav.t-mobile.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://unpkg.com": {
           "capabilities": [
             "frame",
@@ -11095,6 +13546,16 @@
           "temp": false
         },
         "https://updoot.app": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://upload.disroot.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11144,6 +13605,16 @@
           ],
           "temp": false
         },
+        "https://us.battle.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://us.cloudamo.com": {
           "capabilities": [
             "frame",
@@ -11174,6 +13645,16 @@
           ],
           "temp": false
         },
+        "https://us.shop.battle.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://us02st1.zoom.us": {
           "capabilities": [
             "frame",
@@ -11195,6 +13676,16 @@
           "temp": false
         },
         "https://us02st3.zoom.us": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://us60.dayforcehcm.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11362,6 +13853,26 @@
           ],
           "temp": false
         },
+        "https://viewscreen.githubusercontent.com": {
+          "capabilities": [
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "frame"
+          ],
+          "temp": false
+        },
+        "https://virtocean.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://virtual.codeday.org": {
           "capabilities": [
             "frame",
@@ -11382,6 +13893,16 @@
           ],
           "temp": false
         },
+        "https://vnstudioelan.itch.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://vod-bgc-na-east-1.media.dssott.com": {
           "capabilities": [
             "frame",
@@ -11392,7 +13913,36 @@
           ],
           "temp": false
         },
+        "https://vod-progressive.akamaized.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://vod.provider.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
         "https://voice.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://voidlinux.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11482,6 +14032,16 @@
           ],
           "temp": false
         },
+        "https://wanganmaxi-official.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://wap.spotifycdn.com": {
           "capabilities": [
             "frame",
@@ -11561,6 +14121,16 @@
           ],
           "temp": false
         },
+        "https://web.archive.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://web.overlay-tech.com": {
           "capabilities": [
             "frame",
@@ -11572,6 +14142,16 @@
           "temp": false
         },
         "https://web.verimi.de": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://web.wechat.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11612,6 +14192,16 @@
           "temp": false
         },
         "https://webmail.greenhost.nl": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://webmail.immerda.ch": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11672,6 +14262,16 @@
           ],
           "temp": false
         },
+        "https://wiki.misskey.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://wikimediafoundation.org": {
           "capabilities": [
             "frame",
@@ -11693,6 +14293,16 @@
           "temp": false
         },
         "https://windscribe.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://wonder-egg-priority.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11733,7 +14343,27 @@
           ],
           "temp": false
         },
+        "https://wotcgs.ey.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://wp-assets.iraiser.eu": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://wp1-ext.usps.gov": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11849,6 +14479,17 @@
           ],
           "temp": false
         },
+        "https://www.adultswim.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
         "https://www.adyen.com": {
           "capabilities": [
             "frame",
@@ -11929,6 +14570,16 @@
           ],
           "temp": false
         },
+        "https://www.allkeyshop.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.amazon.com": {
           "capabilities": [
             "frame",
@@ -11980,6 +14631,16 @@
           ],
           "temp": false
         },
+        "https://www.animelab.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.animenewsnetwork.com": {
           "capabilities": [
             "frame",
@@ -12013,6 +14674,16 @@
           "temp": false
         },
         "https://www.arcgis.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.are.na": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12062,6 +14733,17 @@
           ],
           "temp": false
         },
+        "https://www.autistici.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.bachelorsportal.com": {
           "capabilities": [
             "frame",
@@ -12093,6 +14775,16 @@
           "temp": false
         },
         "https://www.barnesandnoble.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.beamng.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12143,6 +14835,16 @@
           ],
           "temp": false
         },
+        "https://www.blizzard.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.blockchain.com": {
           "capabilities": [
             "frame",
@@ -12183,6 +14885,16 @@
           ],
           "temp": false
         },
+        "https://www.booksamillion.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.box.com": {
           "capabilities": [
             "frame",
@@ -12193,7 +14905,27 @@
           ],
           "temp": false
         },
+        "https://www.bp.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.braze.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.brinker.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12230,6 +14962,16 @@
           ],
           "temp": false
         },
+        "https://www.busuu.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.buymeacoffee.com": {
           "capabilities": [
             "frame",
@@ -12261,6 +15003,16 @@
           "temp": false
         },
         "https://www.change.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.chapters.indigo.ca": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12323,6 +15075,28 @@
           ],
           "temp": false
         },
+        "https://www.chilis.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.chilisjobs.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font",
+            "webgl"
+          ],
+          "temp": false
+        },
         "https://www.civicuk.com": {
           "capabilities": [
             "frame",
@@ -12381,6 +15155,26 @@
           "temp": false
         },
         "https://www.coinbase.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.commandbar.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.comodo.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12610,6 +15404,16 @@
           ],
           "temp": false
         },
+        "https://www.duolingo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.easycounter.com": {
           "capabilities": [
             "frame",
@@ -12621,6 +15425,16 @@
           "temp": false
         },
         "https://www.elderscrollsonline.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.energy.ca.gov": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12680,6 +15494,16 @@
           ],
           "temp": false
         },
+        "https://www.evanlin.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.eventbrite.com": {
           "capabilities": [
             "frame",
@@ -12691,6 +15515,26 @@
           "temp": false
         },
         "https://www.evernote.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ey.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ezoic.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12781,6 +15625,16 @@
           ],
           "temp": false
         },
+        "https://www.flickr.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.fontspring.com": {
           "capabilities": [
             "frame",
@@ -12807,6 +15661,16 @@
             "noscript",
             "other",
             "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.france24.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
             "script"
           ],
           "temp": false
@@ -12850,6 +15714,16 @@
           ],
           "temp": false
         },
+        "https://www.frobese.de": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.fubo.tv": {
           "capabilities": [
             "frame",
@@ -12870,7 +15744,37 @@
           ],
           "temp": false
         },
+        "https://www.funimation.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.gamersgate.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.gap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.gapinc.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13032,6 +15936,17 @@
           ],
           "temp": false
         },
+        "https://www.hdtracks.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://www.headspace.com": {
           "capabilities": [
             "frame",
@@ -13078,6 +15993,36 @@
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://www.hilton.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hmart.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.home-assistant.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -13202,7 +16147,37 @@
           ],
           "temp": false
         },
+        "https://www.ikea.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.ikmultimedia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.imdb.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.immerda.ch": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13304,6 +16279,16 @@
           ],
           "temp": false
         },
+        "https://www.invaluable.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.iraiser.eu": {
           "capabilities": [
             "frame",
@@ -13346,7 +16331,27 @@
           ],
           "temp": false
         },
+        "https://www.jruby.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.justuno.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.keychron.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13535,6 +16540,16 @@
           ],
           "temp": false
         },
+        "https://www.majelan.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.maneskin.it": {
           "capabilities": [
             "frame",
@@ -13625,6 +16640,16 @@
           ],
           "temp": false
         },
+        "https://www.metrobyt-mobile.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.microsoft.com": {
           "capabilities": [
             "frame",
@@ -13643,6 +16668,16 @@
             "other",
             "script",
             "font"
+          ],
+          "temp": false
+        },
+        "https://www.mindmup.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -13752,17 +16787,38 @@
           ],
           "temp": false
         },
+        "https://www.namecheap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.nationstates.net": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other",
-            "font"
+            "font",
+            "script"
           ],
           "temp": false
         },
         "https://www.nbcolympics.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.necrobarista.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13864,6 +16920,26 @@
           ],
           "temp": false
         },
+        "https://www.nvidia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.oneplus.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.openccc.net": {
           "capabilities": [
             "frame",
@@ -13900,6 +16976,16 @@
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://www.oracle.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -14134,7 +17220,27 @@
           ],
           "temp": false
         },
+        "https://www.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.pling.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pocketcasts.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14207,7 +17313,27 @@
           ],
           "temp": false
         },
+        "https://www.qobuz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.qq.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.quora.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14250,6 +17376,16 @@
           "temp": false
         },
         "https://www.randomaccessmemories.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.raspberrypi.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14370,6 +17506,17 @@
           ],
           "temp": false
         },
+        "https://www.rightstufanime.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://www.roblox.com": {
           "capabilities": [
             "frame",
@@ -14429,6 +17576,16 @@
           ],
           "temp": false
         },
+        "https://www.screenaustralia.gov.au": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.sdcl.org": {
           "capabilities": [
             "frame",
@@ -14470,6 +17627,16 @@
           ],
           "temp": false
         },
+        "https://www.shelter.is": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.shopdisney.com": {
           "capabilities": [
             "frame",
@@ -14500,6 +17667,16 @@
           ],
           "temp": false
         },
+        "https://www.shueisha.co.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.sling.com": {
           "capabilities": [
             "frame",
@@ -14510,7 +17687,68 @@
           ],
           "temp": false
         },
+        "https://www.smgstudio.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.smugmug.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.snagajob.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sonos.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.speedrun.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.speedtest.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "ping"
+          ],
+          "temp": false
+        },
+        "https://www.spigotmc.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14540,6 +17778,17 @@
           ],
           "temp": false
         },
+        "https://www.st-trigger.co.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://www.stacks.co": {
           "capabilities": [
             "frame",
@@ -14551,6 +17800,16 @@
           "temp": false
         },
         "https://www.stamps.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.stilt.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14632,7 +17891,37 @@
           ],
           "temp": false
         },
+        "https://www.t-mobile.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.team17.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.technicpack.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.technologyreview.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14662,7 +17951,28 @@
           ],
           "temp": false
         },
+        "https://www.thexyz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://www.thingiverse.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.thisiscolossal.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14712,7 +18022,37 @@
           ],
           "temp": false
         },
+        "https://www.tmobile.careers": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.tofugu.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.toml-lint.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.travis-ci.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14732,6 +18072,17 @@
           ],
           "temp": false
         },
+        "https://www.twitch.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
         "https://www.uber.com": {
           "capabilities": [
             "frame",
@@ -14739,6 +18090,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://www.uncensoredlibrary.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "webgl"
           ],
           "temp": false
         },
@@ -14782,6 +18144,16 @@
           ],
           "temp": false
         },
+        "https://www.viz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.vudu.com": {
           "capabilities": [
             "frame",
@@ -14802,7 +18174,27 @@
           ],
           "temp": false
         },
+        "https://www.wattpad.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.waze.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.wechat.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14904,6 +18296,16 @@
           "temp": false
         },
         "https://www.yesjapan.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.yougetsignal.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -15045,7 +18447,58 @@
           ],
           "temp": false
         },
+        "https://x4fab.itch.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://xapi.us": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://xjobs.brassring.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://yagpdb.xyz": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://yastatic.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://yenpress.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -15125,6 +18578,16 @@
           ],
           "temp": false
         },
+        "https://zdstatic.speedtest.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://zoom.us": {
           "capabilities": [
             "frame",
@@ -15155,6 +18618,16 @@
           ],
           "temp": false
         },
+        "§:ajax.aspnetcdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "§:bandcamp.com": {
           "capabilities": [
             "frame",
@@ -15175,12 +18648,32 @@
           ],
           "temp": false
         },
+        "§:googlevideo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
         "§:paypalobjects.com": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "§:plex.direct": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -15193,13 +18686,71 @@
           ],
           "temp": false
         },
-        "https://cdn.discordapp.com": {
+        "https://www.figma.com": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other",
-            "media"
+            "script",
+            "webgl"
+          ],
+          "temp": false
+        },
+        "https://static.figma.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "http://127.0.0.1:18412": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "http://127.0.0.1:44950": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://s3-downtime.figma.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://discord.app": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://love2dev.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         }
