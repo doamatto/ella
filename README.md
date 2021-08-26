@@ -1,9 +1,9 @@
-# Ella's NoScript
-Ella is the codename behind my girthy NoScript rules over time. It is best run with uBlock Origin still installed, as some things will still depend on an external blocker.
+# Ella's Filters
+Ella is the codename behind my girthy NoScript rules, along with other rules for extensions I use over time. It is best run with uBlock Origin still installed, as some things will still depend on an external blocker.
 
 ## FAQ
 ### Why isn't X included?
-Sometimes I'll purposefully exclude a source, like Tawk.to (live chat). This is because that this list is not designed to be as functional as possible without loading extra content. Live chat solutions, amongst other things, don't make sense to be loaded, especially on metered connections. Fortuantely, you can customise this list, as well as any other, to suit your needs.
+Sometimes I'll purposefully exclude a source, like Tawk.to (live chat). This is because that this list is designed to be as functional as possible without loading extra content. Live chat solutions, amongst other things, don't make sense to be loaded, especially on metered connections. Fortuantely, you can customise this list, as well as any other, to suit your needs. This is a heavily opinionated ruleset, meaning there's a chance you'll still have to change some rules to fit your needs (like adding back live chat support or certain ad sources).
 
 ### Who is Ella?
 I wrote this Readme at 2 in the morning; I don't have a gosh dang diddly clue why I called it Ella. 
