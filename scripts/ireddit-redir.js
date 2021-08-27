@@ -5,7 +5,10 @@
 // @description  Redirect to iReddit because I don't like the modern versions.
 // @run-at       document-start
 // @author       Matt Ronchetto (https://www.doamatto.xyz)
-// @match        https://*.reddit.com/*
+// @match        https://www.reddit.com/*
+// @match        https://old.reddit.com/*
+// @match        https://reddit.com/*
+// @exclude      https://i.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?domain=reddit.com
 // @grant        none
 // ==/UserScript==
