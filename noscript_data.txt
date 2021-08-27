@@ -14332,16 +14332,6 @@
           ],
           "temp": false
         },
-        "https://www.doamatto.xyz": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other",
-            "script"
-          ],
-          "temp": false
-        },
         "https://www.dojrp.com": {
           "capabilities": [
             "frame",
@@ -14693,6 +14683,2707 @@
           "temp": false
         },
         "https://www.funimation.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.gamersgate.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.geocaching.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.giftloop.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.globalcitizen.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.gog.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.google.fr": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.grammarly.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.groovehq.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.groupdynamics.co.uk": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.groupon.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.grubhub.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.gstatic.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.gta5-mods.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.gumlet.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hardenize.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.headspace.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.heatware.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hellosign.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.helpscout.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.herokucdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://www.home-assistant.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hostinger.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hrblock.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hrkgame.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hubspot.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hulu.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.humblebundle.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.humblegames.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.i-love-cool.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ibm.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ibroadcast.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ifixit.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ign.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ikmultimedia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.indieflix.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.indiegala.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.indiegogo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.insanelymac.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.inspectlet.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.instacart.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.instagram.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.instapaper.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.instructure.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.iraiser.eu": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.jetboost.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.jetbrains.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.jiosaavn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.justuno.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.keymailer.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.khanacademy.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.kill-la-kill-game.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.kill-la-kill.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.kindly.ai": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.klaviyo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.kmtvnow.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.kobo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.kovenuk.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.last.fm": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.launch2021.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.leadberry.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://www.lego.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.life360.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.linefriends.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.lingq.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.linkedin.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.linode.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.liquidpixels.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.listia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.locast.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.loggly.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.lolli.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.mailgun.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.maneskin.it": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.manning.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.mapbox.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.marinsoftware.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.marshallmiddle.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.mdhearingaid.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.medallia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.memberstack.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.merchbar.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.microsoft.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.midnightpulp.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.mikazuki.moe": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.mineplex.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.miramarranch.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.modoverlaysuite.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.mparticle.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.musixmatch.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.mutinyhq.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.myachievement.com": {
+          "capabilities": [
+            "script",
+            "object",
+            "media",
+            "frame",
+            "font",
+            "webgl",
+            "fetch",
+            "ping",
+            "noscript",
+            "unchecked_css",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://www.myfonts.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.mywot.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.name.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.nationstates.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.nbcolympics.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.netflix.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.netlify.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.newegg.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.nexus.gg": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.nicehash.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.niche.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.nicovideo.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.nintendo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.nitrotype.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.notion.so": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ntv.co.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.openccc.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.opendesktop.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.openstreetmap.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.optimizely.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://www.osano.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.overdrive.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ovh.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ovh.ie": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pandora.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.panerabread.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.paramountplus.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.patreon.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.paypal.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.paypalobjects.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.payscale.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pbs.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pcloud.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.peacocktv.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.peanutlabs.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pendo.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pepperjam.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pexels.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.piatkowski.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pinterest.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pixiv.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.placelookup.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.planetminecraft.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.playstation.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pling.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.podbean.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.polecat324.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.prestashop.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.publift.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.pubnub.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.pubwise.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.qmee.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.qq.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.quora.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.qwant.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "webgl"
+          ],
+          "temp": false
+        },
+        "https://www.rackspace.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.ramtrucks.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.randomaccessmemories.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.raspberrypi.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.rayark-pass.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.readspeaker.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.recaptcha.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.redbubble.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.reddit.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.redditmedia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://www.redditstatic.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.reddup.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.redhat.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.rescuetime.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.research.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.retrocrush.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.roblox.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.salesforce.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sandiego.gov": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sandiegounified.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://www.scdn.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.schwab.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.screenaustralia.gov.au": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sdcl.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.seafile.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.shapeways.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.sharefile.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.sheetmusicplus.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.shopdisney.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.shopmoment.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.shoprunner.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sling.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.smgstudio.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.spectrum.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.spectrum.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.speedrun.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.speedtest.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.split.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.spotify.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.st-trigger.co.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.stacks.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.stamps.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.stitcher.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.stonebridge.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.stubhub.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "webgl"
+          ],
+          "temp": false
+        },
+        "https://www.sublimehq.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.swagbucks.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sync.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.synology.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.taptap.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.technicpack.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.tenpercent.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.tensorflow.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.terabox.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.thingiverse.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.threadless.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.tiktok.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.tiltbrush.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.titanfile.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.tofugu.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.tumblr.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.twitch.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.uber.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ups.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.usaa.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.userfeel.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.vap.co.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.verint.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.viz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.vudu.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.walkme.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.waze.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.welcomer.radius8.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.whitehouse.gov": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.windy.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "webgl"
+          ],
+          "temp": false
+        },
+        "https://www.winehq.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.wingamestore.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.woopra.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.workatastartup.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.wowow.co.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.xe.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.yesjapan.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.yidio.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.youtube-nocookie.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.youtube.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.zdigital.com.au": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.zoho.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.zohowebstatic.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.zoominfo.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.zuora.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www0.assets.heroku.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www1.grouponcdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www1.sugarsync.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www2.grouponcdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www4-static.gog-statics.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www85.darenjarvis.pro": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://wwwcdn.junodownload.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://xapi.us": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://yastatic.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://youtube.googleapis.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://yuna.moe": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://yvoschaap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://zap-cdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://zap-hosting.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://zapier.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://zdstatic.ign.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://zdstatic.speedtest.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://zoom.us": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://zorinos.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://zossgb-a.akamaihd.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:bandcamp.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:code.jquery.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:ooklaserver.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "§:paypalobjects.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "§:plex.direct": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
+        "§:redditmedia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "http://127.0.0.1:32400": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        }
+      }
+    },
+    "enforced": true,
+    "autoAllowTop": false
+  },
+  "local": {
+    "debug": false,
+    "showCtxMenuItem": true,
+    "showCountBadge": true,
+    "showFullAddresses": true,
+    "amnesticUpdates": true,
+    "highContrast": false,
+    "storage": "local",
+    "uuid": "9e550171-e4d5-49c5-a6f6-d3e782f28b8e"
+  },
+  "sync": {
+    "global": false,
+    "xss": true,
+    "cascadeRestrictions": false,
+    "overrideTorBrowserPolicy": true,
+    "clearclick": true,
+    "storage": "sync"
+  }
+}m": {
           "capabilities": [
             "frame",
             "fetch",
