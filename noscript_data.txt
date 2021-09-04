@@ -31,14 +31,10 @@
     },
     "sites": {
       "trusted": [
-        "§:addons.mozilla.org",
         "§:afx.ms",
-        "§:ajax.aspnetcdn.com",
         "§:firstdata.com",
         "§:firstdata.lv",
         "§:hotmail.com",
-        "§:live.net",
-        "§:mozilla.net",
         "§:nflximg.com",
         "§:noscript.net",
         "§:outlook.com",
@@ -93,7 +89,10 @@
         "https://discord.com",
         "https://round.nneko.me",
         "https://snapdrop.net",
-        "http://localhost:1111"
+        "http://localhost:1111",
+        "http://localhost:32400",
+        "http://127.0.0.1:32400",
+        "http://ak.sail-horizon.com"
       ],
       "untrusted": [
         "doubleclick.net",
@@ -578,7 +577,155 @@
         "https://monorail-edge.shopifysvc.com",
         "https://reports.omegacommerce.com",
         "https://pixel.quantserve.com",
-        "https://g.udimg.com"
+        "https://g.udimg.com",
+        "https://api.ipinfodb.com",
+        "https://cdn.amplitude.com",
+        "https://supportmetrics.apple.com",
+        "https://ad.a-ads.com",
+        "https://flameorganizer.com",
+        "https://o17675.ingest.sentry.io",
+        "https://www.displayvertising.com",
+        "https://a.exdynsrv.com",
+        "https://scripts.simpleanalyticscdn.com",
+        "https://cdn.pushowl.com",
+        "https://tag.getdrip.com",
+        "https://d14jnfavjicsbe.cloudfront.net",
+        "https://selfishsnake.com",
+        "https://ads.servebom.com",
+        "https://app-sj20.marketo.com",
+        "https://geoip-js.com",
+        "https://d3b3ehuo35wzeh.cloudfront.net",
+        "https://cdn-cs.conductor.com",
+        "https://marketo.clearbit.com",
+        "https://my.hellobar.com",
+        "https://cdn.subscribers.com",
+        "https://sdk.woosmap.com",
+        "https://cdn.cnetcontent.com",
+        "https://media.flixfacts.com",
+        "https://api.widget.botmind.io",
+        "https://cdn.tagcommander.com",
+        "https://2vpvitqpe9.kameleoon.eu",
+        "https://js.maxmind.com",
+        "https://knrpc.olark.com",
+        "https://collector.githubapp.com",
+        "https://app-sj13.marketo.com",
+        "https://az416426.vo.msecnd.net",
+        "https://cdn-pci.optimizely.com",
+        "https://s.usea01.idio.episerver.net",
+        "https://d1fc8wv8zag5ca.cloudfront.net",
+        "https://pipedream.wistia.com",
+        "https://distillery.wistia.com",
+        "https://u.peterthaleikis.com",
+        "https://dl.episerver.net",
+        "https://go.episerver.com",
+        "https://console.accessibleweb.com",
+        "https://telemetry.algolia.com",
+        "https://o199199.ingest.sentry.io",
+        "https://b-code.liadm.com",
+        "https://a.quora.com",
+        "https://track.capitaloneshopping.com",
+        "https://o76154.ingest.sentry.io",
+        "https://iq.afterpay.com",
+        "https://sc-static.net",
+        "https://tr.snapchat.com",
+        "https://ads-interfaces.sc-cdn.net",
+        "https://track.wikibuy.com",
+        "https://matomo-tracking.fia.com",
+        "https://sdk.customfit.ai",
+        "https://notifier-configs.airbrake.io",
+        "https://freegeoip.live",
+        "https://js.hs-scripts.com",
+        "https://analytics.ooyala.com",
+        "https://l.ooyala.com",
+        "https://chartbeat.com",
+        "http://ping.chartbeat.net",
+        "http://static.chartbeat.com",
+        "https://beacon.lynx.cognitivlabs.com",
+        "https://pix.knityourdata.com",
+        "https://nr-data.net",
+        "https://myvisualiq.net",
+        "https://t.myvisualiq.net",
+        "https://j.6sc.co",
+        "https://app-ab21.marketo.com",
+        "https://media.sailthru.com",
+        "https://crm.zoho.com",
+        "https://bifrost-api.hotstar.com",
+        "https://harmaninternational.secure.force.com",
+        "https://ar.huemenar.com",
+        "https://100009044.collect.igodigital.com",
+        "https://beacon.riskified.com",
+        "https://d2n9h2wits23hf.cloudfront.net",
+        "https://chat2180.realperson.de",
+        "https://chat1.realperson.cloud",
+        "https://e-cc01-i.sber247.ru",
+        "https://image.sendsay.ru",
+        "https://usercentrics.eu",
+        "https://app.usercentrics.eu",
+        "https://adhigh.net",
+        "https://analytics.newscred.com",
+        "https://js.hsadspixel.net",
+        "https://fs.welcomesoftware.com",
+        "https://js.usemessages.com",
+        "https://t.hs-growth-metrics.com",
+        "https://wtcfns.hubspot.com",
+        "https://img03.en25.com",
+        "https://dclk-match.dotomi.com",
+        "https://ads.stickyadstv.com",
+        "https://volvelle.tech",
+        "https://adsniper.ru",
+        "https://bumlam.com",
+        "https://tidaltv.com",
+        "https://apv-launcher.minute.ly",
+        "https://ws.sessioncam.com",
+        "https://www.crystalreports.com",
+        "https://d34qb8suadcc4g.cloudfront.net",
+        "https://builder-assets.unbounce.com",
+        "https://unbounce.disqus.com",
+        "https://grow.bamboohr.com",
+        "https://feed5mown.com",
+        "https://secure.feed5mown.com",
+        "https://schemaapp.bamboohr.com",
+        "https://referrer.disqus.com",
+        "https://cdn.schemaapp.com",
+        "https://microlearning.opensap.com",
+        "https://demdex.net",
+        "https://everesttech.net",
+        "https://sync.graph.bluecava.com",
+        "https://bluecava.com",
+        "https://ads.avct.cloud",
+        "https://amazon-adystem.com",
+        "https://analytics.global.sky.com",
+        "https://sky.15gifts.com",
+        "https://commander1.com",
+        "https://o1.ingest.sentry.siemens-web.com",
+        "https://img.en25.com",
+        "https://cmt-bq-fgxqjyskta-ew.a.run.app",
+        "https://assets.phenompeople.com",
+        "https://camel.headfarming.com",
+        "https://www.adyoulike.com",
+        "https://web.btncdn.com",
+        "https://edge1.certona.net",
+        "https://monetate.net",
+        "https://se.monetate.net",
+        "https://cnstrc.com",
+        "https://d35u1vg1q28b3w.cloudfront.net",
+        "https://e309da9b9aaf.cdn4.forter.com",
+        "https://sephora-track.inside-graph.com",
+        "https://pf-live.inside-graph.com",
+        "https://ubistatic-a.akamaihd.net",
+        "https://avcvysejs1-2.algolianet.com",
+        "https://event.ispot.tv",
+        "https://tracking.chilipiper.com",
+        "https://grow.clearbitjs.com",
+        "https://x.clearbitjs.com",
+        "https://risk.clearbit.com",
+        "https://6967988f564f4347b438eea799712c33.js.ubembed.com",
+        "https://metadata-static-files.sfo2.cdn.digitaloceanspaces.com",
+        "https://platformapi.metadata.io",
+        "https://d2v02itv0y9u9t.cloudfront.net",
+        "https://countess.twitch.tv",
+        "https://ddacn6pr5v0tl.cloudfront.net",
+        "https://p.twitchcdn.net"
       ],
       "custom": {
         "http://127.0.0.1:1111": {
@@ -588,16 +735,6 @@
             "noscript",
             "other",
             "script"
-          ],
-          "temp": false
-        },
-        "http://127.0.0.1:32400": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other",
-            "media"
           ],
           "temp": false
         },
@@ -612,16 +749,6 @@
           "temp": false
         },
         "http://hurirk.net": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other",
-            "script"
-          ],
-          "temp": false
-        },
-        "http://localhost:32400": {
           "capabilities": [
             "frame",
             "fetch",
@@ -700,6 +827,36 @@
           ],
           "temp": false
         },
+        "https://15gifts.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://15xxav2iivcj3m9mto25he05-wpengine.netdna-ssl.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://1qm6d316zimk3manq32ukkwm-wpengine.netdna-ssl.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://2z7cf39eunq3js84x3tvwt07-wpengine.netdna-ssl.com": {
           "capabilities": [
             "frame",
@@ -721,6 +878,16 @@
           "temp": false
         },
         "https://500px.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://6sense.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -891,6 +1058,16 @@
           "temp": false
         },
         "https://access.line.me": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://accessibleweb.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1130,6 +1307,16 @@
           ],
           "temp": false
         },
+        "https://accounts-static.cdn.mozilla.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://accounts.adafruit.com": {
           "capabilities": [
             "frame",
@@ -1150,6 +1337,16 @@
           "temp": false
         },
         "https://accounts.discogs.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://accounts.firefox.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1199,6 +1396,16 @@
           ],
           "temp": false
         },
+        "https://accounts.welcomesoftware.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://accounts.youtube.com": {
           "capabilities": [
             "frame",
@@ -1229,7 +1436,27 @@
           ],
           "temp": false
         },
+        "https://addons-amo.cdn.mozilla.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://addons.prestashop.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://addons.thunderbird.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1360,6 +1587,26 @@
           ],
           "temp": false
         },
+        "https://ads.snapchat.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://adstradata.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://adult.xyz": {
           "capabilities": [
             "frame",
@@ -1410,6 +1657,16 @@
           "temp": false
         },
         "https://airtable.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://ajax.aspnetcdn.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -1820,6 +2077,25 @@
           ],
           "temp": false
         },
+        "https://api.mtndew.codes": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
+        "https://api.paribus.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://api.prod.headspace.com": {
           "capabilities": [
             "frame",
@@ -1853,6 +2129,16 @@
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://api.spreaker.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -2039,6 +2325,27 @@
           ],
           "temp": false
         },
+        "https://app.hotschedules.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://app.hubspot.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://app.impact.com": {
           "capabilities": [
             "frame",
@@ -2059,7 +2366,27 @@
           ],
           "temp": false
         },
+        "https://app.knityourdata.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://app.memrise.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://app.napster.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -2091,6 +2418,16 @@
           "temp": false
         },
         "https://app.probely.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://app.raindrop.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -2428,6 +2765,16 @@
           ],
           "temp": false
         },
+        "https://assets-marketing-site.calendly.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://assets.alicdn.com": {
           "capabilities": [
             "frame",
@@ -2439,6 +2786,16 @@
           "temp": false
         },
         "https://assets.are.na": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://assets.calendly.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -2609,6 +2966,16 @@
           ],
           "temp": false
         },
+        "https://assets.sky.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://assets.sonos.com": {
           "capabilities": [
             "frame",
@@ -2759,6 +3126,16 @@
           ],
           "temp": false
         },
+        "https://au-live.inside-graph.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://audio-dc6-t1-2-v4v6.pandora.com": {
           "capabilities": [
             "frame",
@@ -2836,6 +3213,16 @@
             "noscript",
             "other",
             "media"
+          ],
+          "temp": false
+        },
+        "https://audioboom.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -2947,6 +3334,16 @@
           ],
           "temp": false
         },
+        "https://auth.wistia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://auth0.auth0.com": {
           "capabilities": [
             "frame",
@@ -3026,6 +3423,16 @@
           ],
           "temp": false
         },
+        "https://aws1.discourse-cdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://b.cdnst.net": {
           "capabilities": [
             "frame",
@@ -3076,6 +3483,16 @@
           ],
           "temp": false
         },
+        "https://barbarapravi.shop": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://battlefy.com": {
           "capabilities": [
             "frame",
@@ -3093,6 +3510,16 @@
           "temp": false
         },
         "https://beta.crunchyroll.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://beta.musicbrainz.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3129,6 +3556,15 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://blobcomments-pa.clients6.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
           ],
           "temp": false
         },
@@ -3318,6 +3754,16 @@
           ],
           "temp": false
         },
+        "https://builder.launchrock.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://buildwithmatter.com": {
           "capabilities": [
             "frame",
@@ -3325,6 +3771,26 @@
             "noscript",
             "other",
             "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://business.adobe.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://business.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
             "script"
           ],
           "temp": false
@@ -3389,6 +3855,16 @@
           ],
           "temp": false
         },
+        "https://c.disquscdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://c.im": {
           "capabilities": [
             "frame",
@@ -3440,7 +3916,27 @@
           ],
           "temp": false
         },
+        "https://cache.marriott.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font"
+          ],
+          "temp": false
+        },
         "https://calendar.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://calendly.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3491,6 +3987,16 @@
           ],
           "temp": false
         },
+        "https://capitaloneshopping.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://careers-redhat.icims.com": {
           "capabilities": [
             "frame",
@@ -3511,7 +4017,27 @@
           ],
           "temp": false
         },
+        "https://careers.phenompeople.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cart.rackspace.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cashier.boldcommerce.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3622,6 +4148,16 @@
           "temp": false
         },
         "https://cdn-payscale.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn-prod-static.phenompeople.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -3817,6 +4353,16 @@
           ],
           "temp": false
         },
+        "https://cdn.ffm.to": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cdn.fwupd.org": {
           "capabilities": [
             "frame",
@@ -3833,6 +4379,12 @@
             "fetch",
             "noscript",
             "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.ivaws.com": {
+          "capabilities": [
             "script"
           ],
           "temp": false
@@ -3903,6 +4455,16 @@
           ],
           "temp": false
         },
+        "https://cdn.phenompeople.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cdn.plaid.com": {
           "capabilities": [
             "frame",
@@ -3920,6 +4482,15 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.prod.gds.bose.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
           ],
           "temp": false
         },
@@ -3984,6 +4555,16 @@
           "temp": false
         },
         "https://cdn.storerocket.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cdn.test.ffm.to": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4235,6 +4816,16 @@
           ],
           "temp": false
         },
+        "https://cf.mora.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cfl.dropboxstatic.com": {
           "capabilities": [
             "frame",
@@ -4293,7 +4884,37 @@
           ],
           "temp": false
         },
+        "https://chatlogs.metabrainz.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://chatra.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://checkcoverage.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://checkout.limitedrun.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4433,6 +5054,16 @@
           "temp": false
         },
         "https://civilization.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://ckeditor.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4599,6 +5230,16 @@
           ],
           "temp": false
         },
+        "https://code.jquery.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://code.nintendo.com": {
           "capabilities": [
             "frame",
@@ -4620,6 +5261,16 @@
           "temp": false
         },
         "https://codex.nflxext.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://cognitiv.ai": {
           "capabilities": [
             "frame",
             "fetch",
@@ -4770,6 +5421,16 @@
           ],
           "temp": false
         },
+        "https://connect.ubisoft.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://connect.yandex.com": {
           "capabilities": [
             "frame",
@@ -4821,6 +5482,16 @@
           "temp": false
         },
         "https://console.nest.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://constructor.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5010,6 +5681,16 @@
           ],
           "temp": false
         },
+        "https://creativecloud.adobe.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://creditkarmacdn-a.akamaihd.net": {
           "capabilities": [
             "frame",
@@ -5110,6 +5791,16 @@
           ],
           "temp": false
         },
+        "https://customfit.ai": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://cytoid.io": {
           "capabilities": [
             "frame",
@@ -5200,6 +5891,16 @@
           ],
           "temp": false
         },
+        "https://d1azc1qln24ryf.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font"
+          ],
+          "temp": false
+        },
         "https://d1ielco78gv5pf.cloudfront.net": {
           "capabilities": [
             "frame",
@@ -5231,6 +5932,16 @@
           "temp": false
         },
         "https://d1rx8vrt2hn1hc.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://d1sojsgu0jwtb7.cloudfront.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5360,6 +6071,16 @@
           ],
           "temp": false
         },
+        "https://d36jcksde1wxzq.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://d374qyff4cr92x.cloudfront.net": {
           "capabilities": [
             "frame",
@@ -5390,6 +6111,16 @@
           ],
           "temp": false
         },
+        "https://d3ds6z1w6yhmzj.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://d3e54v103j8qbb.cloudfront.net": {
           "capabilities": [
             "frame",
@@ -5408,6 +6139,16 @@
             "other",
             "script",
             "font"
+          ],
+          "temp": false
+        },
+        "https://d3fw5vlhllyvee.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -5438,6 +6179,16 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://d3npuic909260z.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -5751,6 +6502,16 @@
           ],
           "temp": false
         },
+        "https://developers.snap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://developers.tiktok.com": {
           "capabilities": [
             "frame",
@@ -5758,6 +6519,16 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://devstreaming-cdn.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -5782,6 +6553,26 @@
           "temp": false
         },
         "https://diffy.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://disqus.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://ditto.fm": {
           "capabilities": [
             "frame",
             "fetch",
@@ -5831,6 +6622,16 @@
           ],
           "temp": false
         },
+        "https://dm4p36fbs3hl0.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
         "https://dmp.im-apps.net": {
           "capabilities": [
             "frame",
@@ -5858,6 +6659,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://doamatto.wistia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
           ],
           "temp": false
         },
@@ -6053,6 +6865,16 @@
           "temp": false
         },
         "https://dp58aslhmbcib.cloudfront.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://dq2uhp934kg74.cloudfront.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6290,6 +7112,16 @@
           ],
           "temp": false
         },
+        "https://ee.co.uk": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://eggbox.fantomfactory.org": {
           "capabilities": [
             "frame",
@@ -6351,6 +7183,26 @@
           "temp": false
         },
         "https://emarsys.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://en-us.sennheiser.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://en.ad-stir.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6580,13 +7432,23 @@
           ],
           "temp": false
         },
-        "https://fast.fonts.net": {
+        "https://fast.wistia.com": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://fast.wistia.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -6640,6 +7502,16 @@
           ],
           "temp": false
         },
+        "https://fhana.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://fi.google.com": {
           "capabilities": [
             "frame",
@@ -6651,6 +7523,16 @@
           "temp": false
         },
         "https://fiit.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://file-attente.cultura.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6680,6 +7562,16 @@
           "temp": false
         },
         "https://firstpromoter.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://fixthephoto.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6791,7 +7683,48 @@
           ],
           "temp": false
         },
+        "https://forbusiness.snapchat.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://forums.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "unchecked_css"
+          ],
+          "temp": false
+        },
         "https://fosstodon.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://fr-fr.sennheiser.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://fr.napster.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6919,6 +7852,16 @@
           ],
           "temp": false
         },
+        "https://gb.napster.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://genius.com": {
           "capabilities": [
             "frame",
@@ -6927,6 +7870,12 @@
             "other",
             "script",
             "media"
+          ],
+          "temp": false
+        },
+        "https://geo-service.prd.funimationsvc.com": {
+          "capabilities": [
+            "fetch"
           ],
           "temp": false
         },
@@ -6939,6 +7888,16 @@
           "temp": false
         },
         "https://geo2.adobe.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://getintent.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -6988,6 +7947,16 @@
           ],
           "temp": false
         },
+        "https://git.openldap.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://github.com": {
           "capabilities": [
             "frame",
@@ -7005,6 +7974,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://githubuniverse.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
           ],
           "temp": false
         },
@@ -7034,6 +8014,12 @@
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://go.kibocommerce.com": {
+          "capabilities": [
+            "script"
           ],
           "temp": false
         },
@@ -7132,6 +8118,16 @@
           ],
           "temp": false
         },
+        "https://halide.cam": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://hangouts.google.com": {
           "capabilities": [
             "frame",
@@ -7190,6 +8186,26 @@
             "other",
             "script",
             "font"
+          ],
+          "temp": false
+        },
+        "https://help.afterpay.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://help.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -7303,6 +8319,16 @@
           ],
           "temp": false
         },
+        "https://helpx.adobe.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://hideout.co": {
           "capabilities": [
             "frame",
@@ -7353,7 +8379,27 @@
           ],
           "temp": false
         },
+        "https://homes-and-villas.marriott.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://howlongtobeat.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://hub.docker.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7395,6 +8441,16 @@
           "temp": false
         },
         "https://i.reddit.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://i5.walmartimages.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7557,6 +8613,16 @@
           ],
           "temp": false
         },
+        "https://idmsa.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://idp.hrblock.com": {
           "capabilities": [
             "frame",
@@ -7628,6 +8694,16 @@
           "temp": false
         },
         "https://images.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://img.fixthephoto.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7715,7 +8791,37 @@
           ],
           "temp": false
         },
+        "https://investor.snap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://isenselabs.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://isthereanydeal.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://itd.sandiegounified.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7795,7 +8901,27 @@
           ],
           "temp": false
         },
+        "https://js.hsforms.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://js.js-bn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://js.live.net": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7856,6 +8982,26 @@
           "temp": false
         },
         "https://js.zohostatic.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://js.zohostatic.eu": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://jsonformatter.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -7947,6 +9093,16 @@
           ],
           "temp": false
         },
+        "https://kibocommerce.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://killedbygoogle.com": {
           "capabilities": [
             "frame",
@@ -7968,6 +9124,46 @@
           "temp": false
         },
         "https://kitsu.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://kiwiirc.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://km.support.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://knit-js-code.s3.amazonaws.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://knityourdata.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -8083,6 +9279,16 @@
           ],
           "temp": false
         },
+        "https://lantis.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://learn-anything.xyz": {
           "capabilities": [
             "frame",
@@ -8120,6 +9326,16 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://lh3.googleusercontent.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -8466,6 +9682,16 @@
           ],
           "temp": false
         },
+        "https://lolstatic-a.akamaihd.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://lpgen.line-scdn.net": {
           "capabilities": [
             "frame",
@@ -8596,6 +9822,16 @@
           ],
           "temp": false
         },
+        "https://maillist-manage.eu": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://manage.brightbox.com": {
           "capabilities": [
             "frame",
@@ -8628,6 +9864,16 @@
         "https://manifest.prod.boltdns.net": {
           "capabilities": [
             "fetch"
+          ],
+          "temp": false
+        },
+        "https://manual.calibre-ebook.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -8666,7 +9912,27 @@
           ],
           "temp": false
         },
+        "https://marketingeffectiveness.nielsen.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://marketplace.presearch.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://marriott-hotels.marriott.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -8903,6 +10169,16 @@
           ],
           "temp": false
         },
+        "https://minute.ly": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://mk0newemarsyscoio7ar.kinstacdn.com": {
           "capabilities": [
             "frame",
@@ -8964,6 +10240,16 @@
           "temp": false
         },
         "https://monkeytype.creator-spring.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://mora.jp": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9126,6 +10412,16 @@
           "temp": false
         },
         "https://my.noip.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://my.numworks.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9389,6 +10685,16 @@
           ],
           "temp": false
         },
+        "https://ngstatic.phenompeople.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://nicovideo.cdn.nimg.jp": {
           "capabilities": [
             "frame",
@@ -9618,12 +10924,32 @@
           ],
           "temp": false
         },
+        "https://optimise-it.de": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://or.stamps.com": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://orcd.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -9673,6 +10999,12 @@
           ],
           "temp": false
         },
+        "https://overlay.ubisoft.com": {
+          "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
         "https://overwatch.op.gg": {
           "capabilities": [
             "frame",
@@ -9684,6 +11016,66 @@
           "temp": false
         },
         "https://overwatch2.playoverwatch.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://p.clk.asia": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://p.scdn.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://p18cdn2static.sharpschool.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://p18cdn3static.sharpschool.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://p18cdn4static.sharpschool.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://p18cdn5static.sharpschool.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9714,7 +11106,27 @@
           ],
           "temp": false
         },
+        "https://p25.zdassets.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://packagist.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://pacsys.marriott.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9775,6 +11187,16 @@
           "temp": false
         },
         "https://papermc.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://paribus.co": {
           "capabilities": [
             "frame",
             "fetch",
@@ -9964,7 +11386,25 @@
           ],
           "temp": false
         },
+        "https://philipshealthcare.secure.force.com": {
+          "capabilities": [
+            "frame",
+            "script",
+            "fetch"
+          ],
+          "temp": false
+        },
         "https://photos.google.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://picard-docs.musicbrainz.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10024,6 +11464,16 @@
           ],
           "temp": false
         },
+        "https://play.qobuz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://play.typeracer.com": {
           "capabilities": [
             "frame",
@@ -10035,6 +11485,16 @@
           "temp": false
         },
         "https://player.hulu.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://player.qobuz.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10164,6 +11624,16 @@
           "temp": false
         },
         "https://portal.afterpay.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://portal.meraki.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10373,6 +11843,16 @@
           ],
           "temp": false
         },
+        "https://prodesigntools.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://prodimage.images-bn.com": {
           "capabilities": [
             "frame",
@@ -10493,6 +11973,16 @@
           ],
           "temp": false
         },
+        "https://pushowl.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://pushpushgo.com": {
           "capabilities": [
             "frame",
@@ -10579,6 +12069,16 @@
           ],
           "temp": false
         },
+        "https://radscriptcdn.sharpschool.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://rails-assets-us.bookshop.org": {
           "capabilities": [
             "frame",
@@ -10600,6 +12100,26 @@
           "temp": false
         },
         "https://ravenjs.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://raw.pixls.us": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://rawsrv.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10631,6 +12151,16 @@
           "temp": false
         },
         "https://recaptcha.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://rechargeassets-bootstrapheroes-rechargeapps.netdna-ssl.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10690,12 +12220,32 @@
           ],
           "temp": false
         },
+        "https://res.cloudinary.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
+          ],
+          "temp": false
+        },
         "https://resources.alibabacloud.com": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://rest.bandsintown.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -10730,6 +12280,16 @@
           "temp": false
         },
         "https://roblox-api.arkoselabs.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://rockcontent.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10888,13 +12448,34 @@
           ],
           "temp": false
         },
+        "https://s25.q4cdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://s3-us-west-1.amazonaws.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://s3.amazonaws.com": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
             "other",
-            "media"
+            "media",
+            "script"
           ],
           "temp": false
         },
@@ -10928,6 +12509,16 @@
           ],
           "temp": false
         },
+        "https://s38107.pcdn.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://s4.bcbits.com": {
           "capabilities": [
             "frame",
@@ -10948,7 +12539,37 @@
           ],
           "temp": false
         },
+        "https://s6.limitedrun.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://s6.music.126.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://s7.limitedrun.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://s8.limitedrun.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -10998,6 +12619,16 @@
           ],
           "temp": false
         },
+        "https://sandiegounified.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://sandiegounified.zoom.us": {
           "capabilities": [
             "frame",
@@ -11038,6 +12669,16 @@
           ],
           "temp": false
         },
+        "https://school.apple.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://scone-pa.clients6.google.com": {
           "capabilities": [
             "frame",
@@ -11045,6 +12686,16 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://scontent-lax3-1.cdninstagram.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "media"
           ],
           "temp": false
         },
@@ -11118,6 +12769,17 @@
           ],
           "temp": false
         },
+        "https://sea1.discourse-cdn.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "unchecked_css"
+          ],
+          "temp": false
+        },
         "https://search.google.com": {
           "capabilities": [
             "frame",
@@ -11157,6 +12819,15 @@
           ],
           "temp": false
         },
+        "https://secure-media.hotstarext.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other"
+          ],
+          "temp": false
+        },
         "https://secure.crunchyroll.com": {
           "capabilities": [
             "frame",
@@ -11187,7 +12858,27 @@
           ],
           "temp": false
         },
+        "https://secure.indeed.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://secure.kobobooks.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://secure.na1.fourth.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11208,6 +12899,16 @@
           "temp": false
         },
         "https://secure.runescape.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://secure.wistia.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11267,6 +12968,16 @@
           ],
           "temp": false
         },
+        "https://segmento.ru": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://sellercentral.amazon.com": {
           "capabilities": [
             "frame",
@@ -11288,6 +12999,16 @@
           "temp": false
         },
         "https://sendpulse.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://sendsay.ru": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11319,6 +13040,16 @@
         },
         "https://services.taxamo.com": {
           "capabilities": [
+            "script"
+          ],
+          "temp": false
+        },
+        "https://sessioncam.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
             "script"
           ],
           "temp": false
@@ -11363,6 +13094,16 @@
           ],
           "temp": false
         },
+        "https://sheraton.marriott.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://shop.aer.io": {
           "capabilities": [
             "frame",
@@ -11374,6 +13115,16 @@
           "temp": false
         },
         "https://shop.ford.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://shopifyorderlimits.s3.amazonaws.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11433,6 +13184,16 @@
           "temp": false
         },
         "https://smartasset.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://soapbox.wistia.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11512,6 +13273,16 @@
           "temp": false
         },
         "https://spideroak.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://spotfy.one": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11670,6 +13441,16 @@
           ],
           "temp": false
         },
+        "https://static-dm.akamaized.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static-exp1.licdn.com": {
           "capabilities": [
             "frame",
@@ -11710,6 +13491,16 @@
           ],
           "temp": false
         },
+        "https://static-www.qobuz.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.adobelogin.com": {
           "capabilities": [
             "frame",
@@ -11738,6 +13529,16 @@
             "other",
             "script",
             "media"
+          ],
+          "temp": false
+        },
+        "https://static.bose.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -11788,7 +13589,28 @@
           ],
           "temp": false
         },
+        "https://static.cultura.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://static.cytoid.io": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://static.dayforcehcm.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -11868,6 +13690,16 @@
           ],
           "temp": false
         },
+        "https://static.hsappstatic.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.kit.co": {
           "capabilities": [
             "frame",
@@ -11908,6 +13740,16 @@
           ],
           "temp": false
         },
+        "https://static.maxmind.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.memrise.com": {
           "capabilities": [
             "frame",
@@ -11924,6 +13766,16 @@
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://static.olark.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -12028,7 +13880,27 @@
           ],
           "temp": false
         },
+        "https://static.xx.fbcdn.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://static.zdassets.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://static0.audioboom.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12076,6 +13948,16 @@
             "noscript",
             "other",
             "font"
+          ],
+          "temp": false
+        },
+        "https://staticbrainz.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -12210,6 +14092,26 @@
           ],
           "temp": false
         },
+        "https://store.mountaindew.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://store.sap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://store.serif.com": {
           "capabilities": [
             "frame",
@@ -12290,6 +14192,26 @@
           ],
           "temp": false
         },
+        "https://subid.subway.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://subscribers.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://sumo.com": {
           "capabilities": [
             "frame",
@@ -12301,6 +14223,16 @@
           "temp": false
         },
         "https://support.1password.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://support.apple.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12349,6 +14281,16 @@
           ],
           "temp": false
         },
+        "https://support.plex.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://support.scdn.co": {
           "capabilities": [
             "frame",
@@ -12375,6 +14317,16 @@
             "fetch",
             "noscript",
             "other"
+          ],
+          "temp": false
+        },
+        "https://support.snapchat.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -12428,6 +14380,26 @@
           ],
           "temp": false
         },
+        "https://suzuki.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://suzukicycles.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://suzy.com": {
           "capabilities": [
             "frame",
@@ -12439,6 +14411,16 @@
           "temp": false
         },
         "https://swc.rs": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://t.me": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12559,6 +14541,56 @@
           ],
           "temp": false
         },
+        "https://technoplanet.stores.jp": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://teenage.engineering": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://teester.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://telegram.me": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://telegram.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://template.ccnag.com": {
           "capabilities": [
             "frame",
@@ -12579,6 +14611,16 @@
           "temp": false
         },
         "https://th-banner.myfonts.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://the-luxury-collection.marriott.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -12684,6 +14726,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://ton.twimg.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
           ],
           "temp": false
         },
@@ -12797,6 +14850,16 @@
           ],
           "temp": false
         },
+        "https://trustarc.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://trustarc.mgr.consensu.org": {
           "capabilities": [
             "frame",
@@ -12857,6 +14920,16 @@
           ],
           "temp": false
         },
+        "https://tweetdeck.twitter.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://twilio.zendesk.com": {
           "capabilities": [
             "frame",
@@ -12886,6 +14959,16 @@
           ],
           "temp": false
         },
+        "https://ubistatic2-a.akamaihd.net": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://ufcfightpass.com": {
           "capabilities": [
             "frame",
@@ -12907,6 +14990,26 @@
           "temp": false
         },
         "https://ui-cdn.digitalocean.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://unbounce.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://universe.leagueoflegends.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13016,6 +15119,17 @@
           ],
           "temp": false
         },
+        "https://us.napster.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
         "https://us.shop.battle.net": {
           "capabilities": [
             "frame",
@@ -13056,7 +15170,27 @@
           ],
           "temp": false
         },
+        "https://us60.dayforcehcm.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://usa.visa.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://usabilla.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13463,6 +15597,16 @@
           ],
           "temp": false
         },
+        "https://web-apps.cdn4dd.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://web-cdn.jitsi.net": {
           "capabilities": [
             "frame",
@@ -13513,7 +15657,28 @@
           ],
           "temp": false
         },
+        "https://web.libera.chat": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://web.overlay-tech.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://web.telegram.org": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13614,7 +15779,27 @@
           ],
           "temp": false
         },
+        "https://welcomesoftware.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://wetransfer.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://widget.bandsintown.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13881,6 +16066,16 @@
           ],
           "temp": false
         },
+        "https://www.aircanada.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.alamy.com": {
           "capabilities": [
             "frame",
@@ -13901,7 +16096,27 @@
           ],
           "temp": false
         },
+        "https://www.algolia.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.alibabacloud.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.allpartsmedical.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -13942,6 +16157,16 @@
           "temp": false
         },
         "https://www.amiami.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.amobee.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14156,6 +16381,16 @@
           ],
           "temp": false
         },
+        "https://www.bamboohr.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.bandainamcoent.com": {
           "capabilities": [
             "frame",
@@ -14277,6 +16512,16 @@
           ],
           "temp": false
         },
+        "https://www.bose.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.bountysource.com": {
           "capabilities": [
             "frame",
@@ -14334,6 +16579,16 @@
           ],
           "temp": false
         },
+        "https://www.buyapowa.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.buymeacoffee.com": {
           "capabilities": [
             "frame",
@@ -14364,7 +16619,47 @@
           ],
           "temp": false
         },
+        "https://www.cardlytics.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.careers.philips.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.cdkglobal.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.change.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.chargebee.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14524,6 +16819,16 @@
           ],
           "temp": false
         },
+        "https://www.commandersact.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.comodo.com": {
           "capabilities": [
             "frame",
@@ -14565,6 +16870,26 @@
           "temp": false
         },
         "https://www.convertunits.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.cookiebot.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.cookieyes.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14624,6 +16949,26 @@
           ],
           "temp": false
         },
+        "https://www.cultura.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.cybot.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.dailybreak.com": {
           "capabilities": [
             "frame",
@@ -14635,6 +16980,16 @@
           "temp": false
         },
         "https://www.dailymotion.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.dalet.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14744,6 +17099,16 @@
           ],
           "temp": false
         },
+        "https://www.docker.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.dojrp.com": {
           "capabilities": [
             "frame",
@@ -14764,6 +17129,16 @@
           ],
           "temp": false
         },
+        "https://www.doordash.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.dosh.com": {
           "capabilities": [
             "frame",
@@ -14775,6 +17150,16 @@
           "temp": false
         },
         "https://www.drift.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.drip.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14815,6 +17200,16 @@
           "temp": false
         },
         "https://www.dynamicyield.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.e.leclerc": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14874,6 +17269,16 @@
           ],
           "temp": false
         },
+        "https://www.epsilon.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.eslgaming.com": {
           "capabilities": [
             "frame",
@@ -14915,6 +17320,16 @@
           "temp": false
         },
         "https://www.ezoic.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.facebook.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -14986,6 +17401,16 @@
           "temp": false
         },
         "https://www.fedex.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.fia.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -15071,6 +17496,27 @@
             "noscript",
             "other",
             "font",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.fourth.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.freewheel.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
             "script"
           ],
           "temp": false
@@ -15176,6 +17622,16 @@
           "temp": false
         },
         "https://www.giftloop.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.glassdoor.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -15377,6 +17833,37 @@
           "temp": false
         },
         "https://www.hostinger.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hotjar.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.hotstar.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.howtogeek.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -15606,7 +18093,8 @@
             "noscript",
             "other",
             "script",
-            "media"
+            "media",
+            "webgl"
           ],
           "temp": false
         },
@@ -15640,6 +18128,16 @@
           ],
           "temp": false
         },
+        "https://www.ispot.tv": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.ivi.int": {
           "capabilities": [
             "frame",
@@ -15647,6 +18145,17 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://www.jbl.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
           ],
           "temp": false
         },
@@ -15782,6 +18291,16 @@
           ],
           "temp": false
         },
+        "https://www.kungfustore.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.last.fm": {
           "capabilities": [
             "frame",
@@ -15793,6 +18312,16 @@
           "temp": false
         },
         "https://www.launch2021.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.launchrock.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -15941,6 +18470,26 @@
           ],
           "temp": false
         },
+        "https://www.lunchbots.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.magnavox.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.mailgun.com": {
           "capabilities": [
             "frame",
@@ -15991,6 +18540,16 @@
           ],
           "temp": false
         },
+        "https://www.marriott.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.marshallmiddle.org": {
           "capabilities": [
             "frame",
@@ -15998,6 +18557,27 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://www.maxmind.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.mcdonalds.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
           ],
           "temp": false
         },
@@ -16332,6 +18912,38 @@
           ],
           "temp": false
         },
+        "https://www.numworks.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "webgl",
+            "media"
+          ],
+          "temp": false
+        },
+        "https://www.olark.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.onthemapmarketing.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.openccc.net": {
           "capabilities": [
             "frame",
@@ -16367,7 +18979,8 @@
             "frame",
             "fetch",
             "noscript",
-            "other"
+            "other",
+            "script"
           ],
           "temp": false
         },
@@ -16551,6 +19164,49 @@
           ],
           "temp": false
         },
+        "https://www.phenom.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.philips.bg": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.philips.com.tw": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
+        "https://www.philips.sk": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://www.piatkowski.net": {
           "capabilities": [
             "frame",
@@ -16685,7 +19341,27 @@
           ],
           "temp": false
         },
+        "https://www.pureref.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.qmee.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.qobuz.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -16889,7 +19565,37 @@
           ],
           "temp": false
         },
+        "https://www.riddle.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.riskified.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.roblox.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sailthru.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -16928,7 +19634,37 @@
           ],
           "temp": false
         },
+        "https://www.sap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.scdn.co": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.schemaapp.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.schoox.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -16969,6 +19705,26 @@
           "temp": false
         },
         "https://www.seafile.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sendinblue.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sephora.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17040,6 +19796,36 @@
           ],
           "temp": false
         },
+        "https://www.siemens.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.siftwallet.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.sky.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.sling.com": {
           "capabilities": [
             "frame",
@@ -17051,6 +19837,26 @@
           "temp": false
         },
         "https://www.smgstudio.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.snap.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.snapchat.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17120,6 +19926,16 @@
           ],
           "temp": false
         },
+        "https://www.spreaker.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.st-trigger.co.jp": {
           "capabilities": [
             "frame",
@@ -17161,6 +19977,16 @@
           "temp": false
         },
         "https://www.stonebridge.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.stroeer.de": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17373,7 +20199,47 @@
           ],
           "temp": false
         },
+        "https://www.ubereats.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.ubisoft.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.universalmusic.fr": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.ups.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.usa.philips.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17423,6 +20289,17 @@
           ],
           "temp": false
         },
+        "https://www.vfsco.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
+          ],
+          "temp": false
+        },
         "https://www.viz.com": {
           "capabilities": [
             "frame",
@@ -17430,6 +20307,70 @@
             "noscript",
             "other",
             "script"
+          ],
+          "temp": false
+        },
+        "https://www.volvobuses.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.volvocars.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.volvoce.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.volvodefense.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.volvopenta.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "font",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.volvotrucks.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "font"
           ],
           "temp": false
         },
@@ -17443,7 +20384,27 @@
           ],
           "temp": false
         },
+        "https://www.wada-ama.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://www.walkme.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.walmart.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17575,6 +20536,16 @@
           "temp": false
         },
         "https://www.yidio.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.yoasobi-music.jp": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17746,6 +20717,26 @@
           ],
           "temp": false
         },
+        "https://yeasayer.awesomedistro.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://yeasayer.band": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
         "https://youtube.googleapis.com": {
           "capabilities": [
             "frame",
@@ -17856,7 +20847,7 @@
           ],
           "temp": false
         },
-        "§:bandcamp.com": {
+        "https://zr.ee.co.uk": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17866,7 +20857,17 @@
           ],
           "temp": false
         },
-        "§:code.jquery.com": {
+        "§:addons.mozilla.org": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "§:bandcamp.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17913,7 +20914,18 @@
           ],
           "temp": false
         },
-        "https://radscriptcdn.sharpschool.com": {
+        "https://threejs.ultrajs.dev": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script",
+            "webgl"
+          ],
+          "temp": false
+        },
+        "https://react18.ultrajs.dev": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17923,7 +20935,7 @@
           ],
           "temp": false
         },
-        "https://p18cdn5static.sharpschool.com": {
+        "https://esm.sh": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17933,7 +20945,7 @@
           ],
           "temp": false
         },
-        "https://p18cdn3static.sharpschool.com": {
+        "https://cdn.esm.sh": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17943,7 +20955,7 @@
           ],
           "temp": false
         },
-        "https://p18cdn4static.sharpschool.com": {
+        "https://deno.land": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17953,7 +20965,7 @@
           ],
           "temp": false
         },
-        "https://p18cdn2static.sharpschool.com": {
+        "https://supercollider.github.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17963,7 +20975,7 @@
           ],
           "temp": false
         },
-        "https://itd.sandiegounified.org": {
+        "https://ghbtns.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17973,16 +20985,7 @@
           ],
           "temp": false
         },
-        "https://blobcomments-pa.clients6.google.com": {
-          "capabilities": [
-            "frame",
-            "fetch",
-            "noscript",
-            "other"
-          ],
-          "temp": false
-        },
-        "https://store.mountaindew.com": {
+        "https://www.whitesourcesoftware.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -17992,7 +20995,7 @@
           ],
           "temp": false
         },
-        "https://cashier.boldcommerce.com": {
+        "https://dashboard.clearbit.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -18002,7 +21005,7 @@
           ],
           "temp": false
         },
-        "https://rechargeassets-bootstrapheroes-rechargeapps.netdna-ssl.com": {
+        "https://clearbit.com": {
           "capabilities": [
             "frame",
             "fetch",
@@ -18012,7 +21015,7 @@
           ],
           "temp": false
         },
-        "https://shopifyorderlimits.s3.amazonaws.com": {
+        "https://metadata.io": {
           "capabilities": [
             "frame",
             "fetch",
@@ -18022,12 +21025,43 @@
           ],
           "temp": false
         },
-        "https://api.mtndew.codes": {
+        "https://mk0metadataiopr6ah5m.kinstacdn.com": {
           "capabilities": [
             "frame",
             "fetch",
             "noscript",
-            "other"
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://kinsta.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://salesloft.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
+          ],
+          "temp": false
+        },
+        "https://www.g2.com": {
+          "capabilities": [
+            "frame",
+            "fetch",
+            "noscript",
+            "other",
+            "script"
           ],
           "temp": false
         }
