@@ -1,0 +1,15 @@
+||s3-downtime.figma.com^
+||youtube.com^$3p,frame,redirect=click2load.html # doubles as tracking
+||youtube-nocookie.com^$3p,frame,redirect=click2load.html # doubles as tracking
+||notifications.gog.com^
+||instant.page^
+@@||cdn.shopify.com/s/files/1/1520/4366/t/153/assets/*$font,domain=satechi.net
+@@||fonts.gstatic.com/s/materialicons/*$font
+@@||fonts.gstatic.com/s/materialiconssharp/*$font
+@@||d2bm1705m7xtl3.cloudfront.net^$font,domain=windy.com
+@@||d9aa58o.x.incapdns.net^$font,domain=montereybayaquarium.org
+@@||maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2$font
+@@||cdn.shopify.com/s/files/*/assets/icons.woff$font,domain=deskplants.com
+@@||cdn.shopify.com/s/files/**/assets/fontawesome-webfont.woff2$font,domain=deskplants.com
+@@||na.static.mega.co.nz/4/imagery/sprites-fm-mono.*.woff2$font
+@@||netdna.bootstrapcdn.com/font-awesome/*$font,domain=truegamingnetwork.com

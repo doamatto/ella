@@ -1,0 +1,9 @@
+*$font,third-party
+||use.typekit.net^
+||fonts.googleapis.com^
+||*/hs-fs/hubfs/client-logos/*
+||api.producthunt.com/widgets/*
+||js.intercomcdn.com^
+||widget.intercom.io^
+||external-content.duckduckgo.com/ip3/*.ico
+||*/wp-content/fonts/*$font
