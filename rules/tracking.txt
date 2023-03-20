@@ -626,7 +626,6 @@
 ||slackb.com/events/*
 ||slack.com/beacon/*
 ||app.slack.com/clog/*
-||direct.raspberrypi.com/.well-known/shopify/monorail/*
 ||cdn.shopify.com/shopifycloud/consent-tracking-api/*
 ||cdn.shopify.com/shopifycloud/privacy-banner/*
 ||cdn.shopify.com/shopifycloud/boomerang/*
