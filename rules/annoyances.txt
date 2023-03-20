@@ -6,7 +6,7 @@
 ||widget-mediator.zopim.com^
 ||cdnjs.cloudflare.com/ajax/libs/zenscroll/*
 ||static.ada.support/embed*.js
-||*/wp-contnet/plugins/click-to-tweet/*
+||*/wp-content/plugins/click-to-tweet/*
 ||embed.tawk.to^
 ||cdnjs.cloudflare.com/ajax/libs/skrollr/*
 ||*/wp-content/plugins/sassy-social-share/*
