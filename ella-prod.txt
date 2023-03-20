@@ -789,7 +789,7 @@
 ||creativecdn.com^
 ||eus.rubiconproject.com^
 ||*.assemblyexchange.com^
-||)*.ybp.yahoo.com^
+||*.ybp.yahoo.com^
 ||sync.bfmio.com^
 ||cs.admanmedia.com^
 ||tg.socdm.com^
