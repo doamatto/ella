@@ -10,7 +10,7 @@
 ||widget-mediator.zopim.com^
 ||cdnjs.cloudflare.com/ajax/libs/zenscroll/*
 ||static.ada.support/embed*.js
-||*/plugins/click-to-tweet/*
+||*/wp-content/plugins/click-to-tweet/*
 ||embed.tawk.to^
 ||cdnjs.cloudflare.com/ajax/libs/skrollr/*
 ||*/wp-content/plugins/sassy-social-share/*
@@ -730,7 +730,6 @@
 ||slackb.com/events/*
 ||slack.com/beacon/*
 ||app.slack.com/clog/*
-||direct.raspberrypi.com/.well-known/shopify/monorail/*
 ||cdn.shopify.com/shopifycloud/consent-tracking-api/*
 ||cdn.shopify.com/shopifycloud/privacy-banner/*
 ||cdn.shopify.com/shopifycloud/boomerang/*
@@ -821,7 +820,7 @@
 ||cdn.playwire.com^$domain=letterboxd.com
 ||px.moatads.com^
 ||script.4dex.io^
-||*.ads.tremorhub.com^
+||*ads.tremorhub.com^
 ||tag.1rx.io^
 ||hb.yellowblue.io^
 ||hb.minutemedia-prebid.com^
