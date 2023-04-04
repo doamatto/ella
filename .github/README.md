@@ -1,3 +1,8 @@
+| :exclamation:  [This repository is now maintained on Sourcehut here.](https://git.sr.ht/~maatt/ella)   |
+|--------------------------------------------------------------------------------------------------------|
+
+---
+
 Ella is the codename behind my girthy NoScript rules and uBlock filter list, along with other rules for extensions I use over time. It is best run with uBlock Origin still installed, as some things will still depend on an external blocker.
 
 ## Installing
